@@ -92,8 +92,6 @@ IBM Quantum
 Autor
 
 Kuriocuantico
-Aprendiendo computación cuántica desde cero y construyendo proyectos reales
-
 
 kuriocuantico@gmail.com
 Jorge P.
