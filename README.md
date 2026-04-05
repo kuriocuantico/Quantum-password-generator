@@ -44,6 +44,9 @@ Author
 Kuriocuantico
 Learning quantum computing from scratch and building real-world projects
 
+
+----
+
 Español
 ⚛️ Generador Cuántico de Contraseñas
 
